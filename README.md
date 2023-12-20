@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aichannnn
 - 👀 I’m interested in building websites learning data science and AI
-- 🌱 I’m currently learning web development and Artificial intelligence 
+- 🌱 I’m currently learning Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me -1407priyankasingh@gmail.com
 
