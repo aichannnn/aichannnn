@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/ce476521-1b2f-421e-a9cd-018252cbe4ec" width="100%" height="300px" />
 
-<h1 align="center">Hi 👋, I'm Priyanka Singh</h1>
-<h3 align="center">A Full Stack Developer & AI/ML Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Priyanka </h1>
+<h3 align="center">A Full Stack Developer & AI/ML Enthusiast </h3>
 
 ---
 
